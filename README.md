@@ -2,4 +2,6 @@ On this repository I have two csv data files that I used to test simple regressi
 
 The other CSV file I created it. I recorded my screen time and sleep hours to excel. The aim was to see if screen time has an effect on the hours of sleep I get.
 
+A compiled microsoft word docx shows the result of the R script.
+
 I am working to interpret the regression results ......will soon post them.
