@@ -4,4 +4,6 @@ The other CSV file I created it. I recorded my screen time and sleep hours to ex
 
 A compiled microsoft word docx shows the result of the R script.
 
+A general observation is that my sleep is not generally affected by the screen time. There are more factors to consider.
+
 I am working to interpret the regression results ......will soon post them.
