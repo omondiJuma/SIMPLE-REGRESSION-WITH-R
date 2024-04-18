@@ -6,4 +6,6 @@ A compiled microsoft word docx shows the result of the R script.
 
 A general observation is that my sleep is not generally affected by the screen time. There are more factors to consider.
 
-I am working to interpret the regression results ......will soon post them.
+I am working to interpret the regression results ......
+
+will soon post them......
